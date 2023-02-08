@@ -1,0 +1,6 @@
+C:\Users\brien\OneDrive\Documents\BlueToothPrinterTest\BlueToothPrinterTest\bin\Debug\BlueToothPrinterTest.exe.config
+C:\Users\brien\OneDrive\Documents\BlueToothPrinterTest\BlueToothPrinterTest\bin\Debug\BlueToothPrinterTest.exe
+C:\Users\brien\OneDrive\Documents\BlueToothPrinterTest\BlueToothPrinterTest\bin\Debug\BlueToothPrinterTest.pdb
+C:\Users\brien\OneDrive\Documents\BlueToothPrinterTest\BlueToothPrinterTest\obj\Debug\BlueToothPrinterTest.csprojResolveAssemblyReference.cache
+C:\Users\brien\OneDrive\Documents\BlueToothPrinterTest\BlueToothPrinterTest\obj\Debug\BlueToothPrinterTest.exe
+C:\Users\brien\OneDrive\Documents\BlueToothPrinterTest\BlueToothPrinterTest\obj\Debug\BlueToothPrinterTest.pdb
